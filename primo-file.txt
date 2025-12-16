@@ -3,3 +3,4 @@ consente di verificare il funzionamento di controllo di versione
 u non è in controllo di versione
 m è stato modificato
 d è stato cancellato 
+questa è una modifica
