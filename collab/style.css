@@ -11,6 +11,7 @@ h1{
 }
 
 .container{
+    margin: 5px;
     width: 380px;
     height: 250px;
     border: 2px solid black;
