@@ -35,3 +35,26 @@ h1{
     font-weight: bold;
 }
 
+button {
+    margin:5px;
+    background-color: white;
+    border: 2px solid red;
+    border-radius: 8px;
+    padding: 6px;
+}
+
+button a {
+    text-decoration: none;
+    color:red;
+    text-transform: uppercase;
+}
+
+button:hover {
+    background-color: red;
+}
+
+button a:hover{
+    color:white;
+    font-weight: bold;
+
+}
