@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    background-color: red;
+    color: white;
+}
+
+div{
+    width: 250px;
+    height: 250px;
+    border: 2px solid black;
+}
