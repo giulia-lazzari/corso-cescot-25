@@ -22,3 +22,16 @@ h1{
     font-weight: 600;
     text-transform: uppercase;
 }
+
+
+.customer{
+    border: 1px solid red;
+    width: 250px;
+    height: 250px;
+}
+
+.nome{
+    color: red;
+    font-weight: bold;
+}
+
