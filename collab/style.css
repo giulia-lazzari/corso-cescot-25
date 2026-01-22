@@ -14,4 +14,7 @@ h1{
     width: 250px;
     height: 250px;
     border: 2px solid black;
+    background-image: url(img/silvio.jpg);
+    background-size: cover;
+    background-position: center;
 }
