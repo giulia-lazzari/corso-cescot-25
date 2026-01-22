@@ -11,10 +11,13 @@ h1{
 }
 
 .container{
-    width: 250px;
+    width: 380px;
     height: 250px;
     border: 2px solid black;
     background-image: url(img/silvio.jpg);
     background-size: cover;
     background-position: center;
+    color: white;
+    font-weight: 600;
+    text-transform: uppercase;
 }
